@@ -1,6 +1,0 @@
-npm run build  --> compile the project in production mode
-
-npm start  --> start webpack server
-
-npm run build:dev --> compile the project in development mode
-
