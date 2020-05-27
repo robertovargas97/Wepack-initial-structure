@@ -1,6 +1,6 @@
 # Webpack Initial Structure
 
-This is the initial project for create applications using webpack.
+This is the initial project to create applications using webpack.
 
 ### Important:
 
